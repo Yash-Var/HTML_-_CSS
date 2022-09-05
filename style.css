@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    background-color: black;
+    color: #fff;
+    width: 340px;
+}
+
+.main-container {
+    background-color: blue;
+}
+
+.image {
+    /* background-image: ; */
+    height: 3400px;
+    width: 340px;
+    background: aqua url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0gWlEimLsPylCKAm95y1K27fCdzXEHGhXYTfEWXo&s') no-repeat fixed;
+    /* background-repeat: no-repeat;
+    background-color: aqua;
+    background-attachment: fixed; */
+}
+
+ 
