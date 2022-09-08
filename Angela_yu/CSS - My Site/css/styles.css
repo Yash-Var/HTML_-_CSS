@@ -1,27 +1,33 @@
-/* body{
+body{
     margin: 0;
-} */
-
-h1{
-    margin-top: 0;
+    text-align: center;
 }
-.top-container{
-    background-color: #E4F9F5;
-    height: 200px;
-  width: 200px;
-  border: 10px solid black;
+
+h1 {
+  margin-top: 0;
+  width: 10%;
+  margin: 0 auto 0 auto;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+
 
 }
-.middle-container{
-    background-color: blue;
+
+.middle-container {
+  background-color: blue;
   height: 200px;
   width: 200px;
-  border: 20px solid black;
-  /* margin: auto; */
+
 }
 
-.bottom-container{
-    background-color: brown;
-    height: 200px;
-    width: 200px;
+.bottom-container {
+  background-color: brown;
+  height: 200px;
+  width: 200px;
 }
